@@ -3,7 +3,7 @@
 #100 DIAS EVOLUÇÃO DEV
 
 
-O QUE É?
+# O QUE É?
 
 #100DiasEvolucaoDev é um desafio onde nós vamos evoluir diariamente, desenvolvendo nossa constância, diligência, consistência e disciplina, através de AVANÇOS diários.
 A cada dia teremos que executar, no mínimo, 1 AVANÇO.
@@ -19,22 +19,22 @@ AVANÇOS serão pequenos progressos diários, como:
 
 Os AVANÇOS são todos tipos de atividades que, ao serem executadas por você de forma consistente, te possibilitarão evoluir pessoal e profissionalmente.
 
-#POR QUE 100 DIAS DE EVOLUÇÃO DEV?
+# POR QUE 100 DIAS DE EVOLUÇÃO DEV?
 
 Tudo tem um porquê no Techly. E com esse projeto não é diferente.
 O propósito do #100DiasEvolucaoDev vai muito além de aprender conceitos novos, se auto desenvolver e colocar em prática o aprendizado adquirido.
 Esse projeto está respaldado em quatro pilares que, juntos, te ajudarão e desenvolver um caráter sólido como pessoa e, consequentemente, como profissional:
 
-* CONSTÂNCIA - PERSISTÊNCIA, ASSIDUIDADE, FREQUÊNCIA
+*CONSTÂNCIA - PERSISTÊNCIA, ASSIDUIDADE, FREQUÊNCIA
 Firmeza de espírito sob coação: fortaleza, lealdade. Um estado de ser constante ou imutável. (Merriam Webster)
 
-* DILIGÊNCIA - ZELO NA EXECUÇÃO DE UMA TAREFA
+*DILIGÊNCIA - ZELO NA EXECUÇÃO DE UMA TAREFA
 Trabalho ou esforço cuidadoso e persistente. A qualidade de trabalhar com cuidado e muito esforço. (Dicionário de Cambridge)
 
-* CONSISTÊNCIA - FIRMEZA DE CARÁTER
+*CONSISTÊNCIA - FIRMEZA DE CARÁTER
 Comportamento ou atitude de maneira semelhante continuamente, especialmente positiva. (Dicionário de Cambridge)
 
-* DISCIPLINA - RESIGNAÇÃO, AUTO CONTROLE
+*DISCIPLINA - RESIGNAÇÃO, AUTO CONTROLE
 Capacidade de controlar a si mesmo, mesmo em situações difíceis.
 (Dicionário de Cambridge)
 
