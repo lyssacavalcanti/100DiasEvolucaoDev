@@ -26,15 +26,19 @@ O propósito do #100DiasEvolucaoDev vai muito além de aprender conceitos novos,
 Esse projeto está respaldado em quatro pilares que, juntos, te ajudarão e desenvolver um caráter sólido como pessoa e, consequentemente, como profissional:
 
 * CONSTÂNCIA - PERSISTÊNCIA, ASSIDUIDADE, FREQUÊNCIA
+
 Firmeza de espírito sob coação: fortaleza, lealdade. Um estado de ser constante ou imutável. (Merriam Webster)
 
 * DILIGÊNCIA - ZELO NA EXECUÇÃO DE UMA TAREFA
+
 Trabalho ou esforço cuidadoso e persistente. A qualidade de trabalhar com cuidado e muito esforço. (Dicionário de Cambridge)
 
 * CONSISTÊNCIA - FIRMEZA DE CARÁTER
+
 Comportamento ou atitude de maneira semelhante continuamente, especialmente positiva. (Dicionário de Cambridge)
 
 * DISCIPLINA - RESIGNAÇÃO, AUTO CONTROLE
+
 Capacidade de controlar a si mesmo, mesmo em situações difíceis.
 (Dicionário de Cambridge)
 
