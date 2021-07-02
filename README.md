@@ -56,7 +56,9 @@ O objetivo do projeto #100DiasEvolucaoDev é transformar você e eu em pessoas m
 # QUANDO COMEÇA?
 
 Esse projeto se inicia hoje (01/07), exatamente quando se inicia o último semestre do ano.
+
 Se você planejou aprender a programar no início desse ano e não deu certo por algum motivo, essa é sua chance! Nós vamos evoluir juntos e de forma consistente a partir de hoje até 09/10/2021.
+
 Se você conheceu esse projeto depois dessa data, não tem problema nenhum. Esse projeto é atemporal e hoje (o dia em que você está lendo) é o melhor dia para começar sua evolução pessoal e profissional.
 
 # COMO VOCÊ PODE FAZER PARTE DISSO TUDO?
@@ -68,6 +70,7 @@ Você terá duas formas de realizar seus AVANÇOS:
 * Criando e realizando seus próprios avanços diários.
 
 Se você quiser, poderá postar seu avanço nas suas redes sociais usando a tag #100DiasEvolucaoDev e, se você me marcar, eu vou gostar demais de compartilhar no Techly e te colocar nos meus destaques #TechlyFriends.
+
 Eu vou compartilhar diariamente meus avanços nas minhas redes (Instagram, Twitter) e todos os projetos criados durante esses 100 dias serão compartilhados no meu Github.
 
 # VERSÕES POCKET
@@ -83,11 +86,12 @@ Você que manda na sua evolução =)
 # CONTRIBUIÇÕES & SUGESTÕES
 
 Se você quiser contribuir de alguma forma, pode entrar em contato comigo através das redes sociais ou Github para sugerir projetos e avanços para fazermos junto com nossa Comunidade Techly.
+
 No final desse artigo, você vai encontrar os links e descrições de todos avanços diários e esse artigo será atualizado diariamente por mim, Lyssa Cavalcanti.
 
 Eu quero finalizar esse artigo com uma pergunta:
 
 A EVOLUÇÃO COMEÇA AGORA! VAMOS EVOLUIR JUNTOS?
 
-LISTA TECHLY DE AVANÇOS DIÁRIOS
+LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao-dev
 
