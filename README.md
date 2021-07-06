@@ -95,3 +95,8 @@ A EVOLUÇÃO COMEÇA AGORA! VAMOS EVOLUIR JUNTOS?
 
 LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao-dev
 
+# LINKS ÚTEIS & RECURSOS
+
+* Sugestão de Livro para Julho - [Hábitos Atômicos: Um método fácil e comprovado de criar; bons hábitos e se livrar dos maus | James Clear](https://www.amazon.com.br/H%C3%A1bitos-At%C3%B4micos-M%C3%A9todo-Comprovado-Livrar/dp/8550807567/ref=sr_1_3?adgrpid=83858041809&dchild=1&gclid=CjwKCAjwz_WGBhA1EiwAUAxIcfw00qfOiwlZ6xBzRm75vuG85owCvDWg66x3LevZ2BdMWQGb53QP7xoCSy8QAvD_BwE&hvadid=425982568735&hvdev=c&hvlocphy=1001766&hvnetw=g&hvqmt=e&hvrand=10960819092691403510&hvtargid=kwd-728711807665&hydadcr=5626_11235141&keywords=habitos+atomicos&qid=1625179598&sr=8-3);
+* [Playlist #100DiasEvolucaoDev](https://open.spotify.com/playlist/7i27gmIt5IrviWbgxtatsR?si=4e06baee7f884fe3) com todos episódios de podcasts sugeridos por mim;
+* Conheça mais sobre  [Techly](https://www.techly.com.br/);
