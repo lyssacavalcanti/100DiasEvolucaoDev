@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+* {
+    box-sizing:border-box;
+}
+
+h1 {
+    color: #fff;
+}
+
+body {
+    background: url('https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=926&q=80')
+    no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Varela Round', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+}
+
+button {
+    background-color: #3f1fa0;
+    border:none;
+    border-radius: 20%;
+    color: white;
+    position: fixed;
+    top: 20px;
+    right: 30px;
+    padding: 1rem;
+    transition: transform 0.3s ease-in-out;
+}
+
+button.active {
+    transform: translateX(-100px);
+}
+
+nav {
+    background-color: #3f1fa0 ;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    padding: 2rem;
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
+}
+
+nav.active {
+    transform: translateX(0);
+}
+
+nav ul {
+    padding: 0;
+    list-style-type: none;
+    margin: 0;
+}
+
+nav ul li {
+    padding: 1rem 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+

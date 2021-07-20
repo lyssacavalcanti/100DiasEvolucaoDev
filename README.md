@@ -1,8 +1,5 @@
 # 100 DIAS DE EVOLUÇÃO DEV
 
-
-
-
 # O QUE É?
 
 #100DiasEvolucaoDev é um desafio onde nós vamos evoluir diariamente, desenvolvendo nossa constância, diligência, consistência e disciplina, através de AVANÇOS diários.
