@@ -100,4 +100,5 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * Descubra sua personalidade com o [Teste de Personalidade](https://www.16personalities.com/br) da 16 Personalities;
 * Descubra como seu cérebro aprende melhor com o [Teste VARK](https://vark-learn.com/);
 * Tem tempo livre? Aproveite alguns [jogos para desenvolver seu raciocínio lógico](https://rachacuca.com.br/jogos/tags/raciocinio/);
+* Curso de [Comunicação e Oratória da Conquer](https://upvir.al/ref/mh59764256), gratuito (por tempo limitado) e com certificado.
 
