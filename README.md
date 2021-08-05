@@ -102,4 +102,5 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * Tem tempo livre? Aproveite alguns [jogos para desenvolver seu raciocínio lógico](https://rachacuca.com.br/jogos/tags/raciocinio/);
 * Curso de [Comunicação e Oratória da Conquer](https://upvir.al/ref/mh59764256), gratuito (por tempo limitado) e com certificado.
 * [Programa de Formação Grupo FCamara](https://digital.fcamara.com.br/programadeformacao)(para desevolvedores sem experiência).
+* [Gerador de Paleta de Cores Coolors](https://coolors.co/).
 
