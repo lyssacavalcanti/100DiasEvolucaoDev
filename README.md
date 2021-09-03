@@ -106,11 +106,16 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * Efeitos sonoros gratuitos para seus projetos com [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/applause-10033/).
 
 # PROJETOS
-<img align="left" height="100" src="imagens/auto-escrita-texto.png"/>;
+<img align="left" height="200" src="imagens/auto-escrita-texto.png"/>
+
 * [Projeto Auto Escrita](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto)
-<img src="efeitos-sonoros.png"/>
+
+<img align="left" height="200" src="imagens/efeitos-sonoros.png"/>
+
 * [Projeto Efeitos Sonoros](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros).
-<img src="menu-lateral-retratil.png"/>
+<img align="left" height="200" src="imagens/menu-lateral-retratil.png"/>
+
 * [Projeto Menu Lateral Retrátil](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-lateral-retr%C3%A1til).
-<img src="card-sorvete.png"/>
+<img align="left" height="200" src="imagens/card-sorvete.png"/>
+
 * [Projeto Card Sorvete](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-sorvete).
