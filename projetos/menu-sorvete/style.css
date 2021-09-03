@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@900&display=swap');
+* {
+  box-sizing: border-box;
+  font-family: 'Fredoka One', cursive;
+  margin: 0;
+  text-decoration: none;
+  padding: 0;
+}
+.container{
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background: repeating-linear-gradient(90deg, 
+    #432115,
+    #432115 28px,
+    #feebb3 10px,
+    #feebb3 54px);
+    width: 100%;
+}
+
+.card-img{
+  position: absolute;
+  width: 420px;
+  filter:drop-shadow(5px 10px 15px rgba(8,9,13.2));
+  transform: translate(-5rem, -12rem)
+}
+.card{
+  width: 320px;
+  height: 380px;
+  background-color: #feebb3;
+  border-radius: 1rem;
+  padding: 4rem 2rem 0; 
+}
+.card-titulo{
+  font-size: 3rem;
+  color: #432115;
+  margin-bottom: .5rem;
+  margin-left: 2rem;
+}
+.card-dados{
+  transform: translateY(4.8rem);
+}
+.card-preco{
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  margin-left: 3.2rem;
+  color: #432115;
+}
+.card-descricao{
+  font-size: 1rem;
+  margin-bottom: 1.25rem;
+  color: #432115;
+}
+
+.card-botao {
+	box-shadow:inset 0px 1px 11px -25px #966a5d;
+	background:linear-gradient(to bottom, #754b3d 5%, #432115 100%);
+	background-color:#754b3d;
+	border-radius:41px;
+	border:1px solid #57443e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:20px 70px;
+	text-decoration:none;
+	text-shadow:0px 2px 13px #000000;
+}
+.card-botao:hover {
+	background:linear-gradient(to bottom, #432115 5%, #754b3d 100%);
+	background-color:#432115;
+}
+.card-botao:active {
+	position:relative;
+	top:1px;
+}
