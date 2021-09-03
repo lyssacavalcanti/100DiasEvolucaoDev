@@ -106,7 +106,7 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * Efeitos sonoros gratuitos para seus projetos com [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/applause-10033/).
 * [Projeto Auto Escrita](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto)
 # PROJETOS
-<img src="imagens/auto-escrita-texto.png"/>
+<img align="left" height="30" src="imagens/auto-escrita-texto.png"/>
 
 <img src="efeitos-sonoros.png"/>
 * [Projeto Efeitos Sonoros](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros).
