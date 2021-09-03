@@ -105,3 +105,12 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * [Gerador de Paleta de Cores Coolors](https://coolors.co/) para seus projetos.
 * Efeitos sonoros gratuitos para seus projetos com [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/applause-10033/).
 
+# PROJETOS
+<img src="auto-escrita-texto.png"/>
+* [Projeto Auto Escrita](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto).
+<img src="efeitos-sonoros.png"/>
+* [Projeto Efeitos Sonoros](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros).
+<img src="menu-lateral-retratil.png"/>
+* [Projeto Menu Lateral Retrátil](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-lateral-retr%C3%A1til).
+<img src="card-sorvete.png"/>
+* [Projeto Card Sorvete](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-sorvete).
