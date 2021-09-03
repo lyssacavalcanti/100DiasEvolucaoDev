@@ -104,10 +104,10 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * [Programa de Formação Grupo FCamara](https://digital.fcamara.com.br/programadeformacao)(para desevolvedores sem experiência).
 * [Gerador de Paleta de Cores Coolors](https://coolors.co/) para seus projetos.
 * Efeitos sonoros gratuitos para seus projetos com [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/applause-10033/).
-* [Projeto Auto Escrita](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto)
-# PROJETOS
-<img align="left" height="300" src="imagens/auto-escrita-texto.png"/>
 
+# PROJETOS
+<img align="left" height="100" src="imagens/auto-escrita-texto.png"/>;
+* [Projeto Auto Escrita](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto)
 <img src="efeitos-sonoros.png"/>
 * [Projeto Efeitos Sonoros](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros).
 <img src="menu-lateral-retratil.png"/>
