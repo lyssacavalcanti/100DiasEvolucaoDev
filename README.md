@@ -107,16 +107,6 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 
 # PROJETOS
 <a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto"><img align="left" height="200" src="imagens/auto-escrita-texto.png"/></a>
-
-* [Projeto Auto Escrita](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto)
-
-<img align="left" height="200" src="imagens/efeitos-sonoros.png"/>
-
-* [Projeto Efeitos Sonoros](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros).
-<img align="left" height="200" src="imagens/menu-lateral-retratil.png"/>
-
-* [Projeto Menu Lateral Retrátil](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-lateral-retr%C3%A1til).
-
-<img align="left" height="200" src="imagens/card-sorvete.png"/>
-
-* [Projeto Card Sorvete](https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-sorvete).
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros"><img align="left" height="200" src="imagens/efeitos-sonoros.png"/></a>
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-lateral-retr%C3%A1til"><img align="left" height="200" src="imagens/menu-lateral-retratil.png"/></a>
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-sorvete"><img align="left" height="200" src="imagens/card-sorvete.png"/></a>
