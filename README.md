@@ -106,7 +106,7 @@ LISTA TECHLY DE AVANÇOS DIÁRIOS: https://pingback.com/techly/100-dias-evolucao
 * Efeitos sonoros gratuitos para seus projetos com [Free Sound Effects](https://www.freesoundeffects.com/free-sounds/applause-10033/).
 
 # PROJETOS
-<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto"><img align="left" height="200" src="imagens/auto-escrita-texto.png"/></a>
-<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros"><img align="left" height="200" src="imagens/efeitos-sonoros.png"/></a>
-<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-lateral-retr%C3%A1til"><img align="left" height="200" src="imagens/menu-lateral-retratil.png"/></a>
-<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-sorvete"><img align="left" height="200" src="imagens/card-sorvete.png"/></a>
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/auto-escrita-texto"><img align="left" height="150" src="imagens/auto-escrita-texto.png"/></a>
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/efeitos-sonoros"><img align="left" height="150" src="imagens/efeitos-sonoros.png"/></a>
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-lateral-retr%C3%A1til"><img align="left" height="150" src="imagens/menu-lateral-retratil.png"/></a>
+<a href="https://github.com/lyssacavalcanti/100DiasEvolucaoDev/tree/main/projetos/menu-sorvete"><img align="left" height="150" src="imagens/card-sorvete.png"/></a>
